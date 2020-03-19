@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "eventhub-to-cosmos": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7172"
+    }
+  }
+}
